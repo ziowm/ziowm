@@ -76,6 +76,6 @@ Supporting 75 students in REST APIs, database integration, and full-stack develo
 
 ## Links
 
-- Portfolio: [ziowm.github.io](https://ziowm.github.io) *(or your actual URL)*
-- LinkedIn: *add yours*
-- Email: *add yours*
+- Portfolio: [moizswebsite.vercel.app](https://moizswebsite.vercel.app)
+- LinkedIn: [linkedin.com/in/ziowm](https://www.linkedin.com/in/ziowm/)
+- Email: [uddin.moiz@gmail.com](uddin.moiz@gmail.com)
