@@ -72,11 +72,6 @@ Led weekly lab sessions for 75 students on REST APIs, databases, and full-stack 
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziowm&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=f0334f&icon_color=35c4ea&text_color=c9d1d9" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziowm&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=f0334f&text_color=c9d1d9" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ziowm&hide_border=true&background=0d1117&ring=f0334f&fire=f7c531&currStreakLabel=f0334f&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="150" alt="Contribution streak" />
 </p>
 
