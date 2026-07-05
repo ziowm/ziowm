@@ -1,6 +1,6 @@
 # Hi, I'm Moiz Uddin
 
-Software Engineering student at the **University of Maryland** (Dean's List), B.S. Information Science — graduating May 2026, then continuing to an M.S. program Fall 2026. I build production ML pipelines, distributed systems, and AI tools that ship to real users.
+Associate Software Engineer student at **CapTech**, **University of Maryland** (Dean's List), B.S. Information Science - graduated May 2026. I build production ML pipelines, distributed systems, and AI tools that ship to real users.
 
 Currently a **Teaching Assistant** for INST377: Dynamic Web Applications. Open to full-time roles in software engineering, ML engineering, or data engineering starting Summer 2026.
 
