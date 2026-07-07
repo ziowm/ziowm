@@ -1,6 +1,6 @@
 # Hi, I'm Moiz Uddin ◓
 
-**Associate Software Engineer at CapTech**, working across software, AI/ML, and cloud. B.S. Information Science from the **University of Maryland** (Dean's List, '26). I build apps, models, and APIs that ship to real users.
+**Associate Software Engineer at CapTech**, working across software, AI/ML, and cloud. B.S. from the **University of Maryland** (Dean's List, '26). I build apps, models, and APIs that ship to real users.
 
 My portfolio is a working Pokédex. The buttons do things: **[moizswebsite.vercel.app](https://moizswebsite.vercel.app)**
 
